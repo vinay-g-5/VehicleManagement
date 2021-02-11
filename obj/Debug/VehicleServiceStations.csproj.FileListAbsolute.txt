@@ -1,0 +1,13 @@
+C:\Users\Vinay G\source\repos\VehicleServiceStations\bin\Debug\VehicleServiceStations.exe.config
+C:\Users\Vinay G\source\repos\VehicleServiceStations\bin\Debug\VehicleServiceStations.exe
+C:\Users\Vinay G\source\repos\VehicleServiceStations\bin\Debug\VehicleServiceStations.pdb
+C:\Users\Vinay G\source\repos\VehicleServiceStations\obj\Debug\VehicleServiceStations.csprojAssemblyReference.cache
+C:\Users\Vinay G\source\repos\VehicleServiceStations\obj\Debug\VehicleServiceStations.Form1.resources
+C:\Users\Vinay G\source\repos\VehicleServiceStations\obj\Debug\VehicleServiceStations.Properties.Resources.resources
+C:\Users\Vinay G\source\repos\VehicleServiceStations\obj\Debug\VehicleServiceStations.csproj.GenerateResource.cache
+C:\Users\Vinay G\source\repos\VehicleServiceStations\obj\Debug\VehicleServiceStations.csproj.CoreCompileInputs.cache
+C:\Users\Vinay G\source\repos\VehicleServiceStations\obj\Debug\VehicleServiceStations.exe
+C:\Users\Vinay G\source\repos\VehicleServiceStations\obj\Debug\VehicleServiceStations.pdb
+C:\Users\Vinay G\source\repos\VehicleServiceStations\obj\Debug\VehicleServiceStations.Service.resources
+C:\Users\Vinay G\source\repos\VehicleServiceStations\obj\Debug\VehicleServiceStations.Servicechar.resources
+C:\Users\Vinay G\source\repos\VehicleServiceStations\obj\Debug\VehicleServiceStations.Servicedet.resources
